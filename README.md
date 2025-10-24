@@ -1,8 +1,10 @@
 
+
+`markdown
 <!-- ========================== START OF README ========================== -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Chandana+ D+ N;💻Data+Analyst+🚀+Tech+Enthusiast" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Chandana+D+N;💻+Data+Analyst;🌐+Open+Source+Contributor;🚀+Tech+Enthusiast" alt="Typing SVG">
 </h1>
 
 <p align="center">
@@ -33,11 +35,15 @@ class Developer:
 
 <div align="center">
 
-|   **Languages**   |   **Databases**   |   **Tools / IDEs**  |
-| :---------------: | :---------------: | :-----------------: |
-|     🐍 Python    | 💾 MySQL / SQLite |      ⚙ VSCode      |
-| 🕸 HTML, CSS      |   🗄 PostgreSQL  |    🧭 Git, GitHub   |
-|  📊 NumPy, Pandas |     🔍 REST APIs    |    ☁ Firebase    | 🧩 Jupyter Notebook |
+|   **Languages**   |   **Databases**   |   **Tools / IDEs**   |
+| :---------------: | :---------------: | :-----------------:  |
+|     🐍 Python    | 💾 MySQL          |      ⚙ VSCode        |
+|    🕸 HTML, CSS   |                   |    🧭 Git, GitHub    |
+|  📊 NumPy, Pandas|                   |    🧩 PyCharm        |
+|  📊 Matplotlib   |                   |                       |
+|  📊 Seaborn      |                   |                       |
+|  📊 Statistics   |                   |                       |
+
 
 </div>
 
@@ -129,6 +135,25 @@ class Developer:
 4. 🚀 Deployed new feature on `${DEPLOYMENT}`
 
 <!--END_SECTION:activity-->
-# 🚀 ULTRA-FUTURISTIC GITHUB PROFILE README (v3.0)
 
-```html
+---
+
+## 🌈 Visitor Dashboard
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=${YOUR_USERNAME}&label=Profile+Views&color=blueviolet&style=flat-square" />
+</p>
+
+---
+
+<h3 align="center">⭐ Thanks for visiting my profile — Happy Coding!</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="350" alt="Coding Animation">
+</p>
+
+<!-- ========================== END OF README ========================== -->
+
+
+Would you like me to generate this *auto-filled for you* with your name *Sakshi, your actual **skills, projects (LAW EDIFY, 3D HOUSE, Blood Bank, etc.)*, and real dashboard links — so it’s ready to upload instantly?
+```
