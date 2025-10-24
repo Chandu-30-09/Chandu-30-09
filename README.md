@@ -1,19 +1,4 @@
-Perfect 🌟 — below is a *single, full, ready-to-use GitHub Profile README file* (named README.md) that you can *directly copy and paste* into your *GitHub profile repository* (the one named exactly like your username).
 
-It includes:
-
-* 🏆 GitHub trophies
-* 📊 Stats and contribution graphs
-* 🎨 Animated typing effects
-* ⚙ Dashboard-style layout with sections
-* 💻 Skills and tools badges
-* 💫 Smooth CSS-like animations (using GIFs and SVGs)
-
----
-
-## ✅ **Full README.md Code**
-
-`markdown
 <!-- ========================== START OF README ========================== -->
 
 <h1 align="center">
