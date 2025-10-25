@@ -33,9 +33,9 @@ class Developer:
 |     🐍 Python    | 💾 MySQL          |      ⚙ VSCode        |
 |    🕸 HTML, CSS   |                   |    🧭 Git, GitHub    |
 |  📊 NumPy, Pandas|                   |    🧩 PyCharm        |
-|  📊 Matplotlib   |                   |                       |
-|  📊 Seaborn      |                   |                       |
-|  📊 Statistics   |                   |                       |
+|  📈🎨🐍Matplotlib|                   |     📊 PowerBI       |
+|  🌊📈🐍Seaborn  |                   |                       |
+|  🔢 Statistics   |                   |                       |
 
 
 </div>
@@ -86,7 +86,7 @@ class Developer:
 ## ⚙ Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,dataanalysis,html,css,mysql,sqlite,github,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,pythonlibraries,html,css,mysql,github,vscode&perline=8" />
 </p>
 
 ---
