@@ -19,13 +19,9 @@ class Developer:
         self.role = "Data Analyst"
         self.language_spoken = ["English", "Kannada"]
         self.location = "Mysuru"
-        self.learning = ["AI/ML", "FastAPI", "Django REST Framework"]
-        self.interests = ["Web Dev", "Open Source", "Automation"]
-
+        
     def say_hi(self):
         print("Thanks for visiting my profile!")
-`
-
 ---
 
 ## 🧠 Skills Dashboard
@@ -49,7 +45,7 @@ class Developer:
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=${YOUR_USERNAME}&theme=radical&no-frame=true&row=1&margin-w=10&margin-h=10" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Chandu-30-09&theme=radical&no-frame=true&row=1&margin-w=10&margin-h=10" alt="Trophies" />
 </p>
 
 ---
@@ -58,15 +54,15 @@ class Developer:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=${YOUR_USERNAME}&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=${YOUR_USERNAME}&theme=radical&hide_border=true" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=Chandu-30-09&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chandu-30-09&theme=radical&hide_border=true" height="160" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=${YOUR_USERNAME}&layout=compact&theme=radical&hide_border=true&langs_count=8" height="160" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=${YOUR_USERNAME}&theme=react-dark&hide_border=true&area=true&custom_title=Contribution+Graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandu-30-09&layout=compact&theme=radical&hide_border=true&langs_count=8" height="160" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chandu-30-09&theme=react-dark&hide_border=true&area=true&custom_title=Contribution+Graph" />
 
 </div>
 
@@ -82,7 +78,7 @@ class Developer:
 `Python` • `NLTK` • `Gradio` • `PdfPlumber` • `TF-IDF`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=${YOUR_USERNAME}&repo=law-edify&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chandu-30-09&repo=law-edify&theme=radical&hide_border=true" />
 </p>
 
 ---
@@ -90,7 +86,7 @@ class Developer:
 ## ⚙ Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,html,css,js,react,mysql,sqlite,git,github,vscode,linux&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,dataanalysis,html,css,mysql,sqlite,github,vscode&perline=8" />
 </p>
 
 ---
@@ -98,9 +94,9 @@ class Developer:
 ## 💬 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/${YOUR_LINKEDIN}" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:${YOUR_EMAIL}" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/${YOUR_USERNAME}" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://linkedin.com/in/chandana-d-n-8a124b361" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:chandanadn3@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/Chandu-30-09" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://${YOUR_PORTFOLIO}" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=web&logoColor=white"></a>
 </p>
 
@@ -138,7 +134,7 @@ class Developer:
 ## 🌈 Visitor Dashboard
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=${YOUR_USERNAME}&label=Profile+Views&color=blueviolet&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Chandu-30-09&label=Profile+Views&color=blueviolet&style=flat-square" />
 </p>
 
 ---
@@ -152,5 +148,3 @@ class Developer:
 <!-- ========================== END OF README ========================== -->
 
 
-Would you like me to generate this *auto-filled for you* with your name *Sakshi, your actual **skills, projects (LAW EDIFY, 3D HOUSE, Blood Bank, etc.)*, and real dashboard links — so it’s ready to upload instantly?
-```
