@@ -70,12 +70,12 @@ class Developer:
 
 ## 🎨 Projects Dashboard
 
-### 🚀 Featured Project — **AI Legal Assistant**
+### 🚀 Featured Project — **Project Name**
 
-> A Natural Language Processing–powered project that simplifies legal knowledge using TextRank, TF-IDF, and Cosine Similarity.
+> Project Info
 
 **Tech Stack:**
-`Python` • `NLTK` • `Gradio` • `PdfPlumber` • `TF-IDF`
+`` • `` • `` • `` • ``
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chandu-30-09&repo=law-edify&theme=radical&hide_border=true" />
@@ -86,7 +86,7 @@ class Developer:
 ## ⚙ Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,powerbi,html,css,mysql,github,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,visualization,html,css,mysql,github,vscode&perline=8" />
 </p>
 
 ---
